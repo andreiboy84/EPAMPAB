@@ -1,0 +1,2 @@
+c:\users\andre\source\repos\2\TestCalc\TestCalc\obj\Debug\TestCalc.csprojResolveAssemblyReference.cache
+c:\users\andre\source\repos\2\TestCalc\TestCalc\obj\Debug\TestCalc.csproj.CoreCompileInputs.cache
